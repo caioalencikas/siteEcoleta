@@ -1,8 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".github/logo.png">
-    <br><br>
-    <b>Recicle! ajude o meio ambiente!</b>  
-    <br>
+    Recicle! Ajude o meio ambiente!
 </h3>
 
 # Índice
@@ -35,10 +32,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
 
-<h1 align="center">
-    <img alt="Web" src=".github/VideoWeb.gif" width="900px">
-</h1>
-
 <a id="como-usar"></a>
 
 ## :fire: Como usar
@@ -69,5 +62,5 @@ As aulas foram ministradas pelo mestre **[Mayk Brito](https://github.com/maykbri
 
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://github.com/cacalf/siteEcoleta" target="_blank">Caio Alencikas</a>
+    by <a href="https://github.com/cacalf/siteEcoleta" target="_blank">Caio Alencikas</a>
 </h4>
